@@ -1,0 +1,7 @@
+SDK emulator
+Anaconda for linux
+pip3 install numpy
+pip3 install pandas
+pip3 install matplotlib
+vscode installer material theme and material icon
+download logiciel for sketch file
